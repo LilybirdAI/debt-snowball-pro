@@ -26,7 +26,7 @@ Tech Stack
 	•	StoreKit 2
 	•	Local data persistence
 	•	MVVM architecture
-
+Matt@echosignalmedia.com
 Premium
 
 Premium unlocks the interactive What-If Simulator, allowing users to test additional monthly payment scenarios and visualize payoff acceleration.
